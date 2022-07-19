@@ -21,6 +21,7 @@ Additional Features:
 - Support for additional html embedded into markdown
   - Reference the [flutter_html](https://pub.dev/packages/flutter_html) as an example of a package that implements growing and extendible subset of html
 - Be able to create a PDF of marp-style slide decks
+  - [Marp Markdown](https://marp.app)
 
 Additional References:
-- [Python Solution](weasyprint.org)
+- [Python Solution](https://weasyprint.org)
