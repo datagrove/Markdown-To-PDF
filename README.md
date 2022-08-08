@@ -10,7 +10,7 @@ Leverage the following packages:
 - [pdf](https://pub.dev/packages/pdf)
 
 Requirements:
-- Pure dart
+- Pure Dart
 - Works on all dart platforms including all flutter platforms
 - Accepts box constraint
   - Returns amount of html rendered such that rendering can resume on a subsequent page
